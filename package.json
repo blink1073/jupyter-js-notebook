@@ -75,7 +75,8 @@
     "lib/*.css",
     "lib/**/*.css",
     "lib/**/*.d.ts",
-    "lib/**/*.js"
+    "lib/**/*.js",
+    "lib/fonts/*.*"
   ],
   "author": "Project Jupyter",
   "license": "BSD-3-Clause",
